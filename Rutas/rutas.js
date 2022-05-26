@@ -1,1 +1,1 @@
-console.log("Rutas Principales 3");
+console.log("Rutas Secundarias 3");
